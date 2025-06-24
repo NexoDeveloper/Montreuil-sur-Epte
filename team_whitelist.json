@@ -1,6 +1,9 @@
 {
    "policeTeam":[
-      "AviaNexo",
-      "arnasLTUFR"
+      "teamName": "some police team name",
+      "users":[
+         "AviaNexo",
+         "arnasLTUFR"
+      ],
    ]
 }
